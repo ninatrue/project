@@ -1,0 +1,4396 @@
+{
+  "type": "FeatureCollection",
+  "name": "Music2",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4269"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Albert Ice House & Dance Hall",
+        "Web_Notes": "In March of 2003, Robert L. Cave, a business owner/singer-songwriter from Austin, purchased the little town of Albert with the dream of one day resurrecting the old general store and still standing dancehall. Being a frequent visitor to Luckenbach, Cave",
+        "Long": -98.586325,
+        "Lat": 30.184195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.586325,
+          30.184195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nutty Brown Caf�",
+        "Web_Notes": "The Nutty Brown Cafe and Amphitheatre is the Hill Country headquarters for outstanding Live Music and great times. Our enormous, live-oak shaded patio and outdoor amphitheatre is the premier place in Central Texas to catch all of your favorite artists. C",
+        "Long": -97.996581,
+        "Lat": 30.197189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.996581,
+          30.197189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "289 West Club",
+        "Web_Notes": "Open Monday through Saturday. Friday and Saturday open until 2 am. Features mainly rock; country music. Very large and friendly open mic.",
+        "Long": -97.969371,
+        "Lat": 30.210637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.969371,
+          30.210637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glenn at The Backyard",
+        "Web_Notes": "The Glenn at The Backyard is one of Austin's most beautiful outdoor music venues.",
+        "Long": -97.926724,
+        "Lat": 30.250073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.926724,
+          30.250073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Steiner Ranch Steakhouse",
+        "Web_Notes": "Steiner Family Steakhouse offers live music nightly outside on their Hill Top Stage. An update of the evening's plan for live music is available by phone daily after 3 p.m. at (512) 381-0800.",
+        "Long": -97.871658,
+        "Lat": 30.390115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.871658,
+          30.390115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boomerz",
+        "Web_Notes": "We're looking to try and make a fresh start with some new music and new faces at one of the oldest established clubs in the SW Austin area! Everyone is welcome! We have live music every Friday and Saturday night. Everything from Rock, Blues, and occasion",
+        "Long": -97.857233,
+        "Lat": 30.235492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.857233,
+          30.235492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stardust Club",
+        "Web_Notes": "The Stardust Club Is located in South Austin. We are a full service bar and billiards on Manchaca Rd, 2 miles south of Slaughter Lane. Live music Friday and Saturday with NO cover. Karaoke on Monday and Wednesday. We have 14-8' Brunswick pool tables, 2 c",
+        "Long": -97.834276,
+        "Lat": 30.145458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.834276,
+          30.145458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Giddy Ups",
+        "Web_Notes": " ",
+        "Long": -97.833044,
+        "Lat": 30.141924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.833044,
+          30.141924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sam's Town Point",
+        "Web_Notes": "Friends Are the Best Part of Life. Sam's Town Point covers the full spectrum of music. This is a bar and restaurant where the music is whether rock, country, honky-tonk or the blues, but is is one thing that unites all the music in its quality. Sam's i",
+        "Long": -97.8276,
+        "Lat": 30.172136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8276,
+          30.172136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moontower Saloon",
+        "Web_Notes": "Over a year ago we set out to create a one of kind, locally owned, drink/dine destination for South Austin. Our concept was to combine the best aspects of a friendly neighborhood bar with a prime location for some of Austin�s best trailer dining option",
+        "Long": -97.826667,
+        "Lat": 30.16928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.826667,
+          30.16928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indian Roller",
+        "Web_Notes": " ",
+        "Long": -97.825836,
+        "Lat": 30.172008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.825836,
+          30.172008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Anderson Mill Tavern",
+        "Web_Notes": "Every night of the week you can enjoy pool, shuffleboard, darts, gaming machines, poker and much much more. Features Texas Music Mondays, Karaoke on Tuesdays and Open Mic Jam Sessions on Thursdays, and live music on the weekends.",
+        "Long": -97.805751,
+        "Lat": 30.446344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.805751,
+          30.446344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Edison Show",
+        "Web_Notes": " ",
+        "Long": -97.796568,
+        "Lat": 30.258489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.796568,
+          30.258489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Broken Spoke",
+        "Web_Notes": "The Broken Spoke is Texas's most definitive dance hall.  It has a musical history that dates back to Bob Wills and The Texas Playboys. The Broken Spoke has a variety of food, mixed drinks, wine and beer. Bands are encouraged to bring their own PA system.",
+        "Long": -97.78352,
+        "Lat": 30.242428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.78352,
+          30.242428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Baker St. Pub & Grill",
+        "Web_Notes": "Sherlock's Baker Street Pub, Baker Street Pub and Grill and Watson's Ale House have 22 locations across Texas and growing. We offer live music seven nights a week from 4pm-2am. Offering some of the largest drawing regional and national acts. Never a cove",
+        "Long": -97.78278,
+        "Lat": 30.243226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.78278,
+          30.243226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shenanigans Nightclub",
+        "Web_Notes": "Shenanigans Nightclub features live music on Friday nights with no cover charge and a capacity of 299.  Past performers include Malford Milligan, Guy Forsyth, Elliot Fikes Band, and David Latimer.  We have darts, billiards, NTN, shuffleboard, great food,",
+        "Long": -97.779164,
+        "Lat": 30.446539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.779164,
+          30.446539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "East Side Drive Inn",
+        "Web_Notes": "East Side Drive In is one of the outdoor venues for Transmission Entertainment, an independent music booking/promotions/media collective that amplifies fan community growth and involvement, fueling emerging talent for the express purpose of harnessing th",
+        "Long": -97.775407,
+        "Lat": 30.246501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.775407,
+          30.246501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ABGB",
+        "Web_Notes": " ",
+        "Long": -97.769127,
+        "Lat": 30.24518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.769127,
+          30.24518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mean Eyed Cat",
+        "Web_Notes": "Mean Eyed Cat is a tribute to both Johnny Cash and my father.  Opening in September 2004 in the old Cut-Rite chainshaw shack, nestled under a 300-year-old tree on one side and the whistling railroad tracks on the other, the \"Mean Eyed Cat\" is a constant",
+        "Long": -97.764864,
+        "Lat": 30.274682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764864,
+          30.274682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "One-2-One Bar",
+        "Web_Notes": " ",
+        "Long": -97.764833,
+        "Lat": 30.251411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764833,
+          30.251411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BB Rovers",
+        "Web_Notes": "BB Rovers offers live music on Saturday and Sunday nights with NO Cover!",
+        "Long": -97.764542,
+        "Lat": 30.431021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764542,
+          30.431021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "B.B. Rover's Cafe & Pub",
+        "Web_Notes": "B.B. Rover's typically features music 2-3 nights per week, with open mic sundays from 7:30 to 10:30. Never a cover charge!",
+        "Long": -97.764415,
+        "Lat": 30.430874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764415,
+          30.430874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saxon Pub",
+        "Web_Notes": " ",
+        "Long": -97.763464,
+        "Lat": 30.253606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.763464,
+          30.253606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Donn's Depot",
+        "Web_Notes": "All aboard!  One of Austin's most unique nightspots is housed in an old Missouri-Pacific train depot.  Real train cars serve as seating areas, and the ladies restroom is a real caboose!  The building that houses Donn's Depot was transported, via train tr",
+        "Long": -97.763156,
+        "Lat": 30.273948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.763156,
+          30.273948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Highball",
+        "Web_Notes": "The best diner this side of 1960, featuring eight lanes of bowling with rental by the hour; seven different themed karaoke rooms; four lanes of skee-ball with ticketed prizes you won't find anywhere else and a ballroom event space set to host the best da",
+        "Long": -97.762244,
+        "Lat": 30.255384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.762244,
+          30.255384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Lost Well",
+        "Web_Notes": "The Lost Well will hosta live bands Thursday through Saturday. Friendly neighborhood bar with an outdoor patio, live music, good beer and friendly faces!",
+        "Long": -97.762223,
+        "Lat": 30.242879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.762223,
+          30.242879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Opal Divine's Austin Grill - Penn Field",
+        "Web_Notes": "Texas' best Scotch menu: Over 60 varieties of single malt scotches and 36 Craft-brewed and imported draught beers, Fresh and natural American Grill served late! 120\" HDTV for sporting events.",
+        "Long": -97.760657,
+        "Lat": 30.227749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.760657,
+          30.227749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "G&S Lounge",
+        "Web_Notes": "Welcome to the new G & S Lounge. On our web site you will find a list of upcoming shows. Can�t make it to the bar? We will be streaming nearly all of our live music directly on our site (but be honest, it would be more fun to come down though). Aside f",
+        "Long": -97.760398,
+        "Lat": 30.241515
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.760398,
+          30.241515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Listening Room at Winflo",
+        "Web_Notes": "Partnering with LiveVibe � a promoter that specializes in upscale and intimate music concerts. We welcome only the most dedicated of music lovers and foodies to indulge in this experience.\nWhen an artist writes lyrics they do so with the hope that some",
+        "Long": -97.760005,
+        "Lat": 30.273559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.760005,
+          30.273559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "House Wine",
+        "Web_Notes": "House Wine is as unpretentious and inclusive as Austin itself. Our delicious and intriguing wines are thoughtfully chosen from vineyards all over the world! House Wine plays proud host to local charity events, and local artists works. We provide a place",
+        "Long": -97.758902,
+        "Lat": 30.261916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.758902,
+          30.261916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Waterloo Ice House",
+        "Web_Notes": "Waterloo Ice House is a dining location and live music venue.  \"Serving great food since the hippies showed up.\" The first Waterloo Ice House opened its doors on Congress Avenue in 1976. A casual neighborhood gathering spot serving hot, handmade meals an",
+        "Long": -97.75426,
+        "Lat": 30.271964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.75426,
+          30.271964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "C-Boy's Heart and Soul",
+        "Web_Notes": "The Continental Club's Steve Wertheimer, proudly introduces C-Boy's Heart & Soul, which will feature live music every weekend.",
+        "Long": -97.752196,
+        "Lat": 30.243674
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.752196,
+          30.243674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tiniest Bar in Texas",
+        "Web_Notes": "There's nothing TINY about it!",
+        "Long": -97.751844,
+        "Lat": 30.269202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.751844,
+          30.269202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dogwood",
+        "Web_Notes": "The Dogwood's patio may be the main feature of our bar but we offer space for over 200 people on the inside of our bar as well. We have two custom made booths for groups, a small live music stage and custom made furniture throughout. We separate the two",
+        "Long": -97.750362,
+        "Lat": 30.26989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.750362,
+          30.26989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "G�ero's Taco Bar",
+        "Web_Notes": "There's always something fun happening at G�ero�s! Come on and enjoy some live music!!! Join us on our outside jardin stage. All outdoor shows are \"weather permitting.\"",
+        "Long": -97.750268,
+        "Lat": 30.24916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.750268,
+          30.24916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Ranch",
+        "Web_Notes": " ",
+        "Long": -97.750075,
+        "Lat": 30.270389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.750075,
+          30.270389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Opal Divine's Austin Grill - Freehouse",
+        "Web_Notes": "Opal Divine was my grand-mother's name. She was a woman who enjoyed good music, good friends, good drink and a good card game. In honor of her we bring to you Opal Divine's Austin Grill. Please enjoy this establishment with the same spirit for which she",
+        "Long": -97.749676,
+        "Lat": 30.270297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.749676,
+          30.270297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Continental Club",
+        "Web_Notes": "The granddaddy of all local music venues, the Continental Club has enjoyed a coast-to-coast reputation as the premiere club for live music since 1957.",
+        "Long": -97.749023,
+        "Lat": 30.250498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.749023,
+          30.250498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Key Bar",
+        "Web_Notes": "Key Bar is located in the heart of downtown Austin. Established in 2006, it has quickly become one of the city's hot spots. Enjoy one of the specialty drinks from the full service bar, chill with friends, watch the game, or do some \"6th street peopl",
+        "Long": -97.748727,
+        "Lat": 30.269426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.748727,
+          30.269426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Threadgill's World Headquarters",
+        "Web_Notes": " ",
+        "Long": -97.748632,
+        "Lat": 30.25809
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.748632,
+          30.25809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Side Bar",
+        "Web_Notes": "The Side Bar began in 2004 and is Austin based and owned.",
+        "Long": -97.748022,
+        "Lat": 30.270852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.748022,
+          30.270852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ego's",
+        "Web_Notes": "Ego's is a legendary South Austin lounge that hosts a diverse live music mix and poetry slams.",
+        "Long": -97.74769,
+        "Lat": 30.256235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74769,
+          30.256235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Little Woodrow's",
+        "Web_Notes": "Located at the heart of West 6th street between Congress and Lamar, a block downtown from Katz� Deli. This beautiful Historic building was originally a gas station in the 40�s.  As a matter of fact, the original two garage doors are still being used",
+        "Long": -97.747499,
+        "Lat": 30.269649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.747499,
+          30.269649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RAIN on 4th",
+        "Web_Notes": "Voted Austin's Best Gay Bar and Dance Club. Currently featuring live music on Sunday nights, booked by Jeremy Roye.",
+        "Long": -97.745679,
+        "Lat": 30.266534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745679,
+          30.266534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Drag Bar",
+        "Web_Notes": "Established in 1999, Austin's Pizza is locally owned by JD Torian, a native Texan and loyal Longhorn, with twelve Austin-area locations including Westlake, South Austin, campus area, Downtown, Central Austin, North Austin, Cedar Park, Pflugerville, and R",
+        "Long": -97.745603,
+        "Lat": 30.286693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745603,
+          30.286693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lavaca Street Bar",
+        "Web_Notes": "Lavaca Street Bar, a popular nightlife destination for the hip downtown crowd, has served as an Austin icon for numerous years.  They feature drink specials every night of the week as well as happy hour Monday-Friday from 4:00pm to 7:00pm.",
+        "Long": -97.745546,
+        "Lat": 30.266859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745546,
+          30.266859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belmont",
+        "Web_Notes": "After significant renovations, the Belmont re-opened under new ownership during SXSW 2012 as a 1000 person capacity state-of-the-art music venue and bar.  The new Belmont boasts a cutting edge sound and light system and will host music ranging from the h",
+        "Long": -97.745378,
+        "Lat": 30.268477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745378,
+          30.268477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lucky Lounge",
+        "Web_Notes": "One of Austin's most popular neighborhood Bars, the Lucky Lounge features 60's modern furnishings, a unique raised back bar, friendly and attentive staff, refreshing cocktails, daily music specials, and an eclectic crowd of people from a wide range of ba",
+        "Long": -97.745332,
+        "Lat": 30.267445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745332,
+          30.267445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oilcan Harry's",
+        "Web_Notes": "Oilcan Harry's is an upscale gay men's nightclub, featuring the hottest guys, and the best cocktails in town - for over 15 years!",
+        "Long": -97.745046,
+        "Lat": 30.266348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745046,
+          30.266348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cedar Street Courtyard",
+        "Web_Notes": "Located in the heart of the Warehouse District, the Cedar Street Courtyard has a vast selection of cigars and specialty martinis at the king of gin joints.  People also enjoy live music in the courtyard.",
+        "Long": -97.744824,
+        "Lat": 30.266862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.744824,
+          30.266862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ten Oak",
+        "Web_Notes": "Located in the heart of the Warehouse District in downtown Austin, Texas, tenOak Bourbon House and Lounge represents all that makes Austin unique and vivacious. Enter through our spacious covered patio, and pay a visit to the �Horse with No Name&rd",
+        "Long": -97.744474,
+        "Lat": 30.266582
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.744474,
+          30.266582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Speakeasy",
+        "Web_Notes": "Nightclub and live music venue\n",
+        "Long": -97.743753,
+        "Lat": 30.266422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743753,
+          30.266422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Six Lounge",
+        "Web_Notes": "Nightclub.",
+        "Long": -97.743739,
+        "Lat": 30.266182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743739,
+          30.266182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shiner's Saloon",
+        "Web_Notes": "Shiner's Saloon offers cheap drafts and $1 whiskey and has live music 4 nights a week. In addition to having all Shiner Beers available on tap, we also offer the Shiner hospitality. With most of the owners raised in Shiner, TX, we plan on bringing the ho",
+        "Long": -97.743611,
+        "Lat": 30.267111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743611,
+          30.267111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ethics Music Lounge",
+        "Web_Notes": " ",
+        "Long": -97.743547,
+        "Lat": 30.267049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743547,
+          30.267049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elephant Room",
+        "Web_Notes": "The Elephant Room has been providing \"Cool Jazz in the Basement Since 1991,\" and offers a variety of live music 7 nights a week beginning at 9:30pm, a full bar with over 20 different drafts and wine by the glass, and great happy hour specials.",
+        "Long": -97.7435,
+        "Lat": 30.265331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7435,
+          30.265331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Loft 718",
+        "Web_Notes": "Local techno-honcho Daetron Vargas has transformed the seldom-used loft space above Silhouette Sushi into a weekend-only lounge decked out with its own bar, cush mod furniture, paper-globe lighting, two Street Fighter equipped SNES systems, music-nerd fl",
+        "Long": -97.742702,
+        "Lat": 30.269242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742702,
+          30.269242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kingdom Austin Night Club",
+        "Web_Notes": "Kingdom is a boutique dance club located in the heart of downtown Austin, TX. It serves as a home for all dance genres, with an emphasis on sound, lighting, and architectural design to create an enhanced experience for all guests.",
+        "Long": -97.742439,
+        "Lat": 30.26675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742439,
+          30.26675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pedro's Place",
+        "Web_Notes": " ",
+        "Long": -97.74234,
+        "Lat": 30.279023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74234,
+          30.279023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Karma Austin",
+        "Web_Notes": "With its great location, just two blocks from the world famous 6th Street, Karma Lounge provides the ultimate nightlife experience with its energy and excitement.  The Lounge offers multiple rooms including the Shag Room with its relaxing tones and the C",
+        "Long": -97.742321,
+        "Lat": 30.266765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742321,
+          30.266765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dance Across Texas",
+        "Web_Notes": "BIGGEST DANCE FLOOR IN CENTRAL TEXAS",
+        "Long": -97.74232,
+        "Lat": 30.215336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74232,
+          30.215336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spider House Ballroom",
+        "Web_Notes": "Spider House is an eclectic coffee bar and vegetarian cafe, featuring beer, wine, sangria, smoothies, coffee drinks, and desserts. We have music Sunday through Saturday nights from 8-10:30 in a magical garden setting, which seats about 100 people. Come h",
+        "Long": -97.742035,
+        "Lat": 30.295249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742035,
+          30.295249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Varsity Bar at Austin's Pizza",
+        "Web_Notes": "Varsity Bar is conveniently located upstairs from Austin's Pizza's on the Drag. Drinks and live music make Varsity Bar UT's newest and best after-class hangout.",
+        "Long": -97.741849,
+        "Lat": 30.287019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741849,
+          30.287019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hole in the Wall",
+        "Web_Notes": "Austin bar with a relaxed atmosphere plus free shuffleboard and nightly music.",
+        "Long": -97.741653,
+        "Lat": 30.290002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741653,
+          30.290002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Local Pub and Patio",
+        "Web_Notes": "The Local Pub and Patio caters to college students, faculty and staff of UT, as well as the local Austinite searching for a comfortable neighborhood hangout. We offer a warm, inviting atmosphere, and a patio outside that offers a great place to relax on",
+        "Long": -97.741572,
+        "Lat": 30.291539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741572,
+          30.291539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buffalo Billiards",
+        "Web_Notes": "Named by Billiard Digest as the country' best new pool hall, Buffalo Billiards is a 22,000 square-foot venue with great food and drinks, music, and fun.  Their dinner menu consists of traditional bar favorites including chicken wings, nachos, quesadillas",
+        "Long": -97.741516,
+        "Lat": 30.26741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741516,
+          30.26741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Soho Lounge",
+        "Web_Notes": "Soho Lounge combines high energy and class to provide the ultimate nightlife entertainment on 6th Street.  They host a variety of events including college football parties and holiday-theme parties and also offer drink specials every night of the week.",
+        "Long": -97.74135,
+        "Lat": 30.267368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74135,
+          30.267368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chuggin' Monkey",
+        "Web_Notes": "The Chuggin' Monkey was created by three guys who wanted a place to hang out, shoot pool, and lounge on a patio in the summer.  They went around to numerous entertainment districts all over the country to come up with the ideal nightspot where all kinds",
+        "Long": -97.74133,
+        "Lat": 30.267363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74133,
+          30.267363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "B.D. Riley's Irish Pub",
+        "Web_Notes": "With its opening in October of 2000, B.D. Riley's Irish Pub is a fairly new establishment, but its popularity is nothing to be underestimated.  Located in the heart of Austin's historic 6th Street Entertainment district, B.D. Riley's is a fine traditiona",
+        "Long": -97.741288,
+        "Lat": 30.267925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741288,
+          30.267925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Friends Bar",
+        "Web_Notes": "Friends is located in the heart of 6th Street district, within walking distance of most hotels. The Friends Bar provides live music and features some of Austin's best DJ's.",
+        "Long": -97.741246,
+        "Lat": 30.267914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741246,
+          30.267914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parish",
+        "Web_Notes": "The Parish room is one of the most adored live music venues in the Country, by fans & artists alike, housing arguably the best indoor sound in all of Texas. The Parish has physical character, hardwood floors, and a great musical history. It has attracted",
+        "Long": -97.741184,
+        "Lat": 30.267898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741184,
+          30.267898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Firehouse Lounge",
+        "Web_Notes": "speakeasy cocktail lounge",
+        "Long": -97.741035,
+        "Lat": 30.268173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741035,
+          30.268173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Antone's Nightclub",
+        "Web_Notes": "Antone's is Austin's legendary blues hall that has been providing great live music to Austin since 1975.  All ages are welcome to the variety of shows that they have to offer. Antone's has long been known as   Austin's Home of the Blues. Antone's has sho",
+        "Long": -97.740763,
+        "Lat": 30.266156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740763,
+          30.266156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Latitude 29",
+        "Web_Notes": "The Latitude 30 is one of Austin's most popular neighborhood bars, located in the heart of the Warehouse District. With TV's, DJ's, live bands, best service and most enjoyable atmosphere, there's something for everyone. If you're looking for a night out",
+        "Long": -97.740736,
+        "Lat": 30.267081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740736,
+          30.267081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Darwin's Pub",
+        "Web_Notes": "Darwin's Pub is a small bar located in downtown Austin that occasionally features live music.",
+        "Long": -97.740676,
+        "Lat": 30.267252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740676,
+          30.267252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bat Bar",
+        "Web_Notes": "The Bat Bar is a Sixth Street bar that also features live music. For venue and band bookings, private parties, and VIP reservations please contact Jey Ditta at (512) 695-8487 or email him at jeyditta@yahoo.com.",
+        "Long": -97.7406,
+        "Lat": 30.267741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7406,
+          30.267741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blind Pig Pub",
+        "Web_Notes": "Blind Pig Pub is a beer garden bringing state employees, tech heads and students live music and a large beer list.",
+        "Long": -97.740294,
+        "Lat": 30.267077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740294,
+          30.267077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ginny's Little Longhorn Saloon",
+        "Web_Notes": " ",
+        "Long": -97.740228,
+        "Lat": 30.329299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740228,
+          30.329299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Nook Amphitheater",
+        "Web_Notes": "Nook is a nightclub/ dancehall located in Austin, TX. The Nook features musical acts from a variety of different genres.",
+        "Long": -97.740149,
+        "Lat": 30.26702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740149,
+          30.26702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shakespeare's Pub",
+        "Web_Notes": "The Shakespeare Pub & Grill was established in 1990 with the atmosphere of a local British pub that was easy to find with a good selction of beer, a place to meet  interesting people, to have a bite to eat, and not to break into a sweat when the check ar",
+        "Long": -97.740097,
+        "Lat": 30.267599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740097,
+          30.267599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Library Bar",
+        "Web_Notes": "The Library has been described as the ultimate hangout.  The best drink specials and the hoppin atmosphere combine to create the epitome of a party bar.  Surrounded by the hottest people, you'll throw back your favorite beverage.  The best music will be",
+        "Long": -97.739333,
+        "Lat": 30.266781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739333,
+          30.266781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burnside's Tavern",
+        "Web_Notes": "Treasure Island is Austin's legendary nightlife destination with great music, location, and atmosphere.  Order their famous Tropical Fish bowl and dance the night away in paradise.",
+        "Long": -97.739271,
+        "Lat": 30.266764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739271,
+          30.266764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pete's Dueling Piano Bar",
+        "Web_Notes": "Pete's Dueling Piano Bar offers great entertainment and atmosphere robust with the singing, laughing, clapping, and dancing of everyone having a delightful time.  Four talented pianists play two baby grand pianos, in two-person rotations on the hour and",
+        "Long": -97.739187,
+        "Lat": 30.266742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739187,
+          30.266742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jackalope",
+        "Web_Notes": "The Jackalope is Austin's most notorious old school dive bar\".  Velvet paintings, a huge padded bar, great drinks, a friendly staff, amazing food, and a widely diverse crowd are our trademarks.",
+        "Long": -97.739148,
+        "Lat": 30.267305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739148,
+          30.267305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vulcan Gas Company",
+        "Web_Notes": "Vulcan Gas Company is a beautiful state-of-the art music venue designed to host today's most cutting edge music experiences as well as to offer the best setting for a variety private and corporate event functions.\n",
+        "Long": -97.739023,
+        "Lat": 30.267107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739023,
+          30.267107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Peckerheads on Sixth",
+        "Web_Notes": "Come party with us on Historic 6th Street in Austin, Texas. Cheap drinks, great music.",
+        "Long": -97.739012,
+        "Lat": 30.267298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739012,
+          30.267298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nuno's Attic",
+        "Web_Notes": "At Nuno's on Sixth Downstairs is a great place to have a drink and listen to the greatest blues musicians in Austin (seven days a week!)... \n\nIn the Nuno's Attic, there is also musical performances as well as theatrical performances.",
+        "Long": -97.738981,
+        "Lat": 30.267261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738981,
+          30.267261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whip Inn Parlour Caf�",
+        "Web_Notes": "Whip In Parlour Cafe has a variety of beer, food and music. The setting is quite unique, intimate & awesome. Whip In Parlour Cafe is open everyday 8am-midnite.",
+        "Long": -97.738968,
+        "Lat": 30.238229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738968,
+          30.238229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cuban Salsa Dance Lessons with Leticia Rodriguez/ Iron Cactus",
+        "Web_Notes": " ",
+        "Long": -97.738586,
+        "Lat": 30.391549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738586,
+          30.391549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NXNW Restaurant and Brewery",
+        "Web_Notes": "Community Space\nLive Musik",
+        "Long": -97.738538,
+        "Lat": 30.391159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738538,
+          30.391159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Banger's Sausage House and Beer Garden",
+        "Web_Notes": "Banger's Sausage House & Beer Garden is a new restaurant, bar and music venue coming to the Rainey Street District of downtown Austin Texas in the summer of 2012",
+        "Long": -97.738364,
+        "Lat": 30.25886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738364,
+          30.25886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dirty Dog",
+        "Web_Notes": "Austin's only live music sports bar with an extreme sports theme.  Featuring three 8 foot screens and multiple TV's placed throughout the bar, all showing extreme sports and other big games.",
+        "Long": -97.738276,
+        "Lat": 30.266501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738276,
+          30.266501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Flamingo Cantina",
+        "Web_Notes": "Flamingo Cantina is a embassy of Caribbean sounds that occasionally plays rock and roll.",
+        "Long": -97.738175,
+        "Lat": 30.266472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738175,
+          30.266472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Casino El Camino",
+        "Web_Notes": "Voted best bar food, juke box, atmosphere in Austin.",
+        "Long": -97.738154,
+        "Lat": 30.266466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738154,
+          30.266466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Headhunter's Bar",
+        "Web_Notes": "Headhunter's features a wide variety of music to appeal to every nature of listener.  Headhunter's features a full menu of food and drinks available in the club or for private parties and catering.  Headhunter's provides two stages (inside & outside smok",
+        "Long": -97.737048,
+        "Lat": 30.267688
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.737048,
+          30.267688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Swan Dive",
+        "Web_Notes": "All the class and taste of East Side Show Room with floor space adequate enough to encourage proper dance shenanigans.\nWe aspire to be a music emporium and to provide Austin with top quality eccentric entertainment in the most atmospheric environment we",
+        "Long": -97.736827,
+        "Lat": 30.266538
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736827,
+          30.266538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Plush",
+        "Web_Notes": "Featuring different DJs every night of the week, Plush serves up beer and cocktails while house music blares. The hard-edged and cool-toned interior contradicts the club's soft and warm name. A makeshift dance floor in front of the DJ station is the foca",
+        "Long": -97.73682,
+        "Lat": 30.266556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73682,
+          30.266556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barracuda",
+        "Web_Notes": "Red 7 is an all-ages Rock venue that is complete with two stages (one indoor and one outdoor) and full bar.",
+        "Long": -97.736787,
+        "Lat": 30.267107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736787,
+          30.267107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elysium Nightclub",
+        "Web_Notes": "Elysium Nightclub in downtown Austin has been voted best dance club three years in a row in theAustin Chronicle Reader's Poll.  It is recognized as the city's gothic and industrial haven featuring 80's music, old goth favorites, live music, and s",
+        "Long": -97.736492,
+        "Lat": 30.267385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736492,
+          30.267385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beerland",
+        "Web_Notes": "Rock & roll club seeks bands, fans, and hangers-on for all-out orgy of loud music and cheap beer.  Also have liquor, pool, and arcade games.  Must love music. No cigars.  21 and up, please.  We're waiting for you, seven nights a week.  And now, Karaoke o",
+        "Long": -97.736473,
+        "Lat": 30.26744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736473,
+          30.26744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cheer Up Charlie's",
+        "Web_Notes": " ",
+        "Long": -97.736443,
+        "Lat": 30.269422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736443,
+          30.269422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mohawk",
+        "Web_Notes": "Handmade in downtown Austin, Texas, The Mohawk Austin was reinvented in 2006 as a place for stout drinks, live music, and original events. The Mohawk Austin draws its inspiration from the Native American culture of the Northeast.  The Mohawk Austin was b",
+        "Long": -97.736399,
+        "Lat": 30.269529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736399,
+          30.269529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stubb's Bar-B-Que",
+        "Web_Notes": "In the 1970's, Stubb's restaurant became the heart of an explosive music scene. Stubbs was ground zero for musicians like Joe Ely and Stevie Ray Vaughn. Other famous musicians who would \"play for their supper\" included Muddy Waters, John Lee Ho",
+        "Long": -97.736175,
+        "Lat": 30.268275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736175,
+          30.268275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Club 606",
+        "Web_Notes": "Club 606 is Austin newest Live music and dance venue. Awesome space, Awesome sound. Check out our 2000 sqft, music, party, dance and performance venue. Full black box elevated stage, full bar, dance floor, club & stage lighting.\n",
+        "Long": -97.736048,
+        "Lat": 30.267492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736048,
+          30.267492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Empire Control Room",
+        "Web_Notes": "Empire Control Room & Garage is a concert venue and night club located in Austin, TX. Empire is a modern music space that prides itself in providing the best concert experience for the audience. Empire Control Room & Garage is the ideal location for enjo",
+        "Long": -97.736048,
+        "Lat": 30.267492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736048,
+          30.267492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NeWorld Deli",
+        "Web_Notes": "New World Deli came into existence because owners Greg and Sarah Bontempo wanted to create a restaurant where their young children could come to work with them and they would not have to rely on day care.\nWhen you enter NeWorlDeli you are greeted by the",
+        "Long": -97.735514,
+        "Lat": 30.306265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.735514,
+          30.306265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shangri-La",
+        "Web_Notes": "Shangri-La is equal parts dive bar, cocktail lounge and beer garden; the perfect destination for a night out with friends, a special event, an awkward first date or even drinking alone while you contemplate the complexities of the human condition. Live m",
+        "Long": -97.731642,
+        "Lat": 30.264925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.731642,
+          30.264925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austin Songwriters Group | The Mockingbird Cafe",
+        "Web_Notes": "First formed in 1986, ASG is a non-profit organization completely run on a volunteer basis by songwriters and solely dedicated to the interests of songwriters throughout Texas and the world. ASG offers weekly artist showcases at our office, produces two",
+        "Long": -97.731549,
+        "Lat": 30.213385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.731549,
+          30.213385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Scoot Inn and Bier Garten",
+        "Web_Notes": "The Scoot is the oldest continuously running beer joint in central Texas. In the olden days weary pioneers would roll their wagons into the Scoot \"drive in\" for a jug of beer, rations and perhaps some ice when available. Now we have plenty of ice, a grea",
+        "Long": -97.729701,
+        "Lat": 30.262347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.729701,
+          30.262347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rio Rita Cafe y Cantina",
+        "Web_Notes": "Mild mannered coffee shop by day, swanky lounge by night. We are 4 blocks east of I-35, between Navasota and Attayac on Sixth Street. It was once an orquestahaven back in the day (1950s) and sometime in the early 70s, someone erected its sign, wh",
+        "Long": -97.729312,
+        "Lat": 30.264267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.729312,
+          30.264267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kenny Dorham's Backyard",
+        "Web_Notes": "Named for the legendary jazz trumpeter and East Austinite, Kenny Dorham�s Backyard is DiverseArts� outdoor music venue, located in the heart of the historic East End cultural district, just down the street from Kenny Dorham�s last home in Austin.",
+        "Long": -97.728617,
+        "Lat": 30.269272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.728617,
+          30.269272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Emo's Austin",
+        "Web_Notes": "It's been almost twenty years since Emo's first opened its doors, and in that span of time countless bands have not only graced the stage (including the legendary Johnny Cash, just look for his barstool hanging from the ceiling) but all helped cement Emo",
+        "Long": -97.727967,
+        "Lat": 30.240795
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.727967,
+          30.240795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Volstead",
+        "Web_Notes": "The Volsteadcan host parties from 10-275 people. Whether it be a birthday, Alumni gathering, corporate cocktail party, rehearsal dinner or engagement soiree, The Volstead is here to accommodate your needs.",
+        "Long": -97.7274,
+        "Lat": 30.263636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7274,
+          30.263636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hotel Vegas",
+        "Web_Notes": "Hotel Vegas Bar is located in the heart of the east sixth street arts + entertainment district on the east end of the Salinas Building, next to neighboring sister bar The Volstead Lounge. Hotel Vegas Bar will offer Live Music and DJ's Wednesday to Saturd",
+        "Long": -97.7274,
+        "Lat": 30.263636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7274,
+          30.263636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lazy Lizard",
+        "Web_Notes": "The Lazy Lizard is an E. 6th street bar w/ indoor and outdoor stages.\n",
+        "Long": -97.727361,
+        "Lat": 30.263623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.727361,
+          30.263623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Patsy's Cowgirl Cafe",
+        "Web_Notes": "At Patsy's Cowgirl Cafe, people come in for appetizers, margaritas, beer, and live music.  Live music is every Wednesday through Saturdays, with no cover.  Sedwick says her cafe is \"Texas roadhouse meets Austin eclectic.\"  The menu is a good te",
+        "Long": -97.727035,
+        "Lat": 30.213716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.727035,
+          30.213716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The White Horse",
+        "Web_Notes": "The White Horse features live music 7 days a week with a full-service bar and whiskey on tap, dance floor, two pool tables, Bomb Tacos trailer and covered/open air smoking patio. We also feature an antique photo booth and a variety of arcade games. Our s",
+        "Long": -97.72701,
+        "Lat": 30.262565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72701,
+          30.262565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buzz Mill Coffee",
+        "Web_Notes": "24 Hours\nLocally Roasted Premium Quality Coffee",
+        "Long": -97.726864,
+        "Lat": 30.241702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.726864,
+          30.241702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Water Tank Bar",
+        "Web_Notes": "The Water Tank is a nightclub / restaurant located in north Austin. Enjoy some of the best bands in Austin every Wednesday, and Thursday nights as we bring on some of the most talented musicians Central Texas has to offer! If you enjoy friendly people an",
+        "Long": -97.725871,
+        "Lat": 30.375146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.725871,
+          30.375146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sherlock's Baker Street Pub - Austin",
+        "Web_Notes": "Sherlock's Baker Street Pub, Baker Street Pub and Grill and Watson's Ale House have sixteen locations across Texas and growing. We offer live music seven nights a week from 4pm-2am. Some of our largest drawing acts are Rat Ranch, Velcro Pygmies, The Max",
+        "Long": -97.724509,
+        "Lat": 30.371446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.724509,
+          30.371446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stay Gold",
+        "Web_Notes": "Stay Gold features local draft beers, a variety of Texas and international wines and seasonal craft cocktails in addition to a full patio and new food trailer Toaster, operated by Hannah Love, former pastry Sous Chef at Perla�s Seafood & Oyster Bar, Je",
+        "Long": -97.723708,
+        "Lat": 30.257077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.723708,
+          30.257077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Studio 40",
+        "Web_Notes": "Studio 41 Austin's newest events center has approximately 8000 sq./ft. to offer with a 120 sq./ft. stage and an exclusive green room. A 2500 sq./ft. back room (available for bar set up) opens to a 4500 sq./ft. room that has a dedicated 3500 sq./t dance f",
+        "Long": -97.723303,
+        "Lat": 30.237046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.723303,
+          30.237046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dozen Street",
+        "Web_Notes": "Dozen Street is a new, soulful lounge for all types and stripes in the up and coming middle of the East Side. The bar features a small stage, free pool tables and a large backyard patio. For musicians interesting in performing, contact the bar's owner at",
+        "Long": -97.72041,
+        "Lat": 30.273862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72041,
+          30.273862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Opal Divine's Austin Grill - Marina",
+        "Web_Notes": "Texas' best Scotch menu: Over 60 varieties of single malt scotches and 36 Craft-brewed & imported draught beers. American Grill served late!",
+        "Long": -97.713998,
+        "Lat": 30.424886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.713998,
+          30.424886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "4th Tap Brewing",
+        "Web_Notes": "Poetry Slams\nWrestling\nRotating Art Exhibition",
+        "Long": -97.71193,
+        "Lat": 30.385139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.71193,
+          30.385139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carousel Lounge",
+        "Web_Notes": "In spite of (or maybe because of) its out-of-the-way location and bizarre circus theme -- complete with elephant and lion-tamer murals and an actual carousel behind the bar -- the Carousel Lounge is a highly popular local watering hole. You never know wh",
+        "Long": -97.708195,
+        "Lat": 30.309845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.708195,
+          30.309845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Skylark Lounge",
+        "Web_Notes": "The Skylark Lounge is housed in a building that is a throwback to times gone by. While centrally located, it�s tucked away, hidden and off of the beaten path (if we didn't tell you where it was at you'd never find it).We are committing ourselves to bri",
+        "Long": -97.705333,
+        "Lat": 30.284861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.705333,
+          30.284861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nomad Bar",
+        "Web_Notes": "performance venue",
+        "Long": -97.704809,
+        "Lat": 30.312856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.704809,
+          30.312856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hard Luck Lounge",
+        "Web_Notes": " ",
+        "Long": -97.702702,
+        "Lat": 30.256813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.702702,
+          30.256813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parmer Lane Tavern",
+        "Web_Notes": "Live Music Every Wed and Friday\nPool tables\nGame screenings",
+        "Long": -97.697897,
+        "Lat": 30.416148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.697897,
+          30.416148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austin Moose Lodge No. 1734",
+        "Web_Notes": "The Loyal Order of Moose is a fraternal and service organization founded in 1888, with nearly 800,000 men in roughly 1,800 Lodges, in all 50 states and four Canadian provinces, plus Great Britain and Bermuda. Along with other units of Moose International",
+        "Long": -97.696707,
+        "Lat": 30.28651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.696707,
+          30.28651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shooters Billiards & Sports Bar",
+        "Web_Notes": "Shooters is a pool hall / sports bar with entertainment including live music and karaoke. Live music on Friday nights, no cover. Open daily from 11:00am to 2:00am. Happy hour from 11:00am to 7:00pm .",
+        "Long": -97.692547,
+        "Lat": 30.360318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.692547,
+          30.360318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coliseum",
+        "Web_Notes": "The Coliseum is Austin&#39;s newest concert venue featuring R&B, Country, Rock, Pop and Latin performers.\n",
+        "Long": -97.688581,
+        "Lat": 30.16181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.688581,
+          30.16181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Raggedy Anne's",
+        "Web_Notes": "Karaoke\nLive Music venue",
+        "Long": -97.683928,
+        "Lat": 30.436187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.683928,
+          30.436187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sahara Lounge",
+        "Web_Notes": "Sahara Lounge is an inviting Eastside Austin live music venue with a relaxed, eclectic atmosphere. Live shows include Indie, African, Blues, Rock, Country, Swing, Brazilian, Funk and everything in between. Formerly the historic TC's Lounge, the building",
+        "Long": -97.680987,
+        "Lat": 30.279535
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.680987,
+          30.279535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Live Room",
+        "Web_Notes": "The Live Room is one of the six nightclubs in Graham Central Station, which provides a venue for local Austin bands to be seen and heard.",
+        "Long": -97.663688,
+        "Lat": 30.456019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.663688,
+          30.456019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dizzy Rooster",
+        "Web_Notes": "Maybe it's to dance along with countless others on top of the bar or on our packed dance floor.  Maybe it's because you would like to be serenaded on your bachelorette/bachelor party by our notorious MC a/k/a DJ Veg.  Maybe it's because you just HAVE to",
+        "Long": -97.740176,
+        "Lat": 30.267624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740176,
+          30.267624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Albert Ice House & Dance Hall",
+        "Web_Notes": "In March of 2003, Robert L. Cave, a business owner/singer-songwriter from Austin, purchased the little town of Albert with the dream of one day resurrecting the old general store and still standing dancehall. Being a frequent visitor to Luckenbach, Cave",
+        "Long": -98.586325,
+        "Lat": 30.184195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.586325,
+          30.184195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nutty Brown Caf�",
+        "Web_Notes": "The Nutty Brown Cafe and Amphitheatre is the Hill Country headquarters for outstanding Live Music and great times. Our enormous, live-oak shaded patio and outdoor amphitheatre is the premier place in Central Texas to catch all of your favorite artists. C",
+        "Long": -97.996581,
+        "Lat": 30.197189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.996581,
+          30.197189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "289 West Club",
+        "Web_Notes": "Open Monday through Saturday. Friday and Saturday open until 2 am. Features mainly rock; country music. Very large and friendly open mic.",
+        "Long": -97.969371,
+        "Lat": 30.210637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.969371,
+          30.210637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glenn at The Backyard",
+        "Web_Notes": "The Glenn at The Backyard is one of Austin's most beautiful outdoor music venues.",
+        "Long": -97.926724,
+        "Lat": 30.250073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.926724,
+          30.250073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Steiner Ranch Steakhouse",
+        "Web_Notes": "Steiner Family Steakhouse offers live music nightly outside on their Hill Top Stage. An update of the evening's plan for live music is available by phone daily after 3 p.m. at (512) 381-0800.",
+        "Long": -97.871658,
+        "Lat": 30.390115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.871658,
+          30.390115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boomerz",
+        "Web_Notes": "We're looking to try and make a fresh start with some new music and new faces at one of the oldest established clubs in the SW Austin area! Everyone is welcome! We have live music every Friday and Saturday night. Everything from Rock, Blues, and occasion",
+        "Long": -97.857233,
+        "Lat": 30.235492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.857233,
+          30.235492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stardust Club",
+        "Web_Notes": "The Stardust Club Is located in South Austin. We are a full service bar and billiards on Manchaca Rd, 2 miles south of Slaughter Lane. Live music Friday and Saturday with NO cover. Karaoke on Monday and Wednesday. We have 14-8' Brunswick pool tables, 2 c",
+        "Long": -97.834276,
+        "Lat": 30.145458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.834276,
+          30.145458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Giddy Ups",
+        "Web_Notes": " ",
+        "Long": -97.833044,
+        "Lat": 30.141924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.833044,
+          30.141924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sam's Town Point",
+        "Web_Notes": "Friends Are the Best Part of Life. Sam's Town Point covers the full spectrum of music. This is a bar and restaurant where the music is whether rock, country, honky-tonk or the blues, but is is one thing that unites all the music in its quality. Sam's i",
+        "Long": -97.8276,
+        "Lat": 30.172136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8276,
+          30.172136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moontower Saloon",
+        "Web_Notes": "Over a year ago we set out to create a one of kind, locally owned, drink/dine destination for South Austin. Our concept was to combine the best aspects of a friendly neighborhood bar with a prime location for some of Austin�s best trailer dining option",
+        "Long": -97.826667,
+        "Lat": 30.16928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.826667,
+          30.16928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indian Roller",
+        "Web_Notes": " ",
+        "Long": -97.825836,
+        "Lat": 30.172008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.825836,
+          30.172008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Anderson Mill Tavern",
+        "Web_Notes": "Every night of the week you can enjoy pool, shuffleboard, darts, gaming machines, poker and much much more. Features Texas Music Mondays, Karaoke on Tuesdays and Open Mic Jam Sessions on Thursdays, and live music on the weekends.",
+        "Long": -97.805751,
+        "Lat": 30.446344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.805751,
+          30.446344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Edison Show",
+        "Web_Notes": " ",
+        "Long": -97.796568,
+        "Lat": 30.258489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.796568,
+          30.258489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Broken Spoke",
+        "Web_Notes": "The Broken Spoke is Texas's most definitive dance hall.  It has a musical history that dates back to Bob Wills and The Texas Playboys. The Broken Spoke has a variety of food, mixed drinks, wine and beer. Bands are encouraged to bring their own PA system.",
+        "Long": -97.78352,
+        "Lat": 30.242428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.78352,
+          30.242428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Baker St. Pub & Grill",
+        "Web_Notes": "Sherlock's Baker Street Pub, Baker Street Pub and Grill and Watson's Ale House have 22 locations across Texas and growing. We offer live music seven nights a week from 4pm-2am. Offering some of the largest drawing regional and national acts. Never a cove",
+        "Long": -97.78278,
+        "Lat": 30.243226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.78278,
+          30.243226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shenanigans Nightclub",
+        "Web_Notes": "Shenanigans Nightclub features live music on Friday nights with no cover charge and a capacity of 299.  Past performers include Malford Milligan, Guy Forsyth, Elliot Fikes Band, and David Latimer.  We have darts, billiards, NTN, shuffleboard, great food,",
+        "Long": -97.779164,
+        "Lat": 30.446539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.779164,
+          30.446539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "East Side Drive Inn",
+        "Web_Notes": "East Side Drive In is one of the outdoor venues for Transmission Entertainment, an independent music booking/promotions/media collective that amplifies fan community growth and involvement, fueling emerging talent for the express purpose of harnessing th",
+        "Long": -97.775407,
+        "Lat": 30.246501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.775407,
+          30.246501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ABGB",
+        "Web_Notes": " ",
+        "Long": -97.769127,
+        "Lat": 30.24518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.769127,
+          30.24518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mean Eyed Cat",
+        "Web_Notes": "Mean Eyed Cat is a tribute to both Johnny Cash and my father.  Opening in September 2004 in the old Cut-Rite chainshaw shack, nestled under a 300-year-old tree on one side and the whistling railroad tracks on the other, the \"Mean Eyed Cat\" is a constant",
+        "Long": -97.764864,
+        "Lat": 30.274682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764864,
+          30.274682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "One-2-One Bar",
+        "Web_Notes": " ",
+        "Long": -97.764833,
+        "Lat": 30.251411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764833,
+          30.251411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BB Rovers",
+        "Web_Notes": "BB Rovers offers live music on Saturday and Sunday nights with NO Cover!",
+        "Long": -97.764542,
+        "Lat": 30.431021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764542,
+          30.431021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "B.B. Rover's Cafe & Pub",
+        "Web_Notes": "B.B. Rover's typically features music 2-3 nights per week, with open mic sundays from 7:30 to 10:30. Never a cover charge!",
+        "Long": -97.764415,
+        "Lat": 30.430874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.764415,
+          30.430874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saxon Pub",
+        "Web_Notes": " ",
+        "Long": -97.763464,
+        "Lat": 30.253606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.763464,
+          30.253606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Donn's Depot",
+        "Web_Notes": "All aboard!  One of Austin's most unique nightspots is housed in an old Missouri-Pacific train depot.  Real train cars serve as seating areas, and the ladies restroom is a real caboose!  The building that houses Donn's Depot was transported, via train tr",
+        "Long": -97.763156,
+        "Lat": 30.273948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.763156,
+          30.273948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Highball",
+        "Web_Notes": "The best diner this side of 1960, featuring eight lanes of bowling with rental by the hour; seven different themed karaoke rooms; four lanes of skee-ball with ticketed prizes you won't find anywhere else and a ballroom event space set to host the best da",
+        "Long": -97.762244,
+        "Lat": 30.255384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.762244,
+          30.255384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Lost Well",
+        "Web_Notes": "The Lost Well will hosta live bands Thursday through Saturday. Friendly neighborhood bar with an outdoor patio, live music, good beer and friendly faces!",
+        "Long": -97.762223,
+        "Lat": 30.242879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.762223,
+          30.242879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Opal Divine's Austin Grill - Penn Field",
+        "Web_Notes": "Texas' best Scotch menu: Over 60 varieties of single malt scotches and 36 Craft-brewed and imported draught beers, Fresh and natural American Grill served late! 120\" HDTV for sporting events.",
+        "Long": -97.760657,
+        "Lat": 30.227749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.760657,
+          30.227749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "G&S Lounge",
+        "Web_Notes": "Welcome to the new G & S Lounge. On our web site you will find a list of upcoming shows. Can�t make it to the bar? We will be streaming nearly all of our live music directly on our site (but be honest, it would be more fun to come down though). Aside f",
+        "Long": -97.760398,
+        "Lat": 30.241515
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.760398,
+          30.241515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Listening Room at Winflo",
+        "Web_Notes": "Partnering with LiveVibe � a promoter that specializes in upscale and intimate music concerts. We welcome only the most dedicated of music lovers and foodies to indulge in this experience.\nWhen an artist writes lyrics they do so with the hope that some",
+        "Long": -97.760005,
+        "Lat": 30.273559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.760005,
+          30.273559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "House Wine",
+        "Web_Notes": "House Wine is as unpretentious and inclusive as Austin itself. Our delicious and intriguing wines are thoughtfully chosen from vineyards all over the world! House Wine plays proud host to local charity events, and local artists works. We provide a place",
+        "Long": -97.758902,
+        "Lat": 30.261916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.758902,
+          30.261916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Waterloo Ice House",
+        "Web_Notes": "Waterloo Ice House is a dining location and live music venue.  \"Serving great food since the hippies showed up.\" The first Waterloo Ice House opened its doors on Congress Avenue in 1976. A casual neighborhood gathering spot serving hot, handmade meals an",
+        "Long": -97.75426,
+        "Lat": 30.271964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.75426,
+          30.271964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "C-Boy's Heart and Soul",
+        "Web_Notes": "The Continental Club's Steve Wertheimer, proudly introduces C-Boy's Heart & Soul, which will feature live music every weekend.",
+        "Long": -97.752196,
+        "Lat": 30.243674
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.752196,
+          30.243674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tiniest Bar in Texas",
+        "Web_Notes": "There's nothing TINY about it!",
+        "Long": -97.751844,
+        "Lat": 30.269202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.751844,
+          30.269202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dogwood",
+        "Web_Notes": "The Dogwood's patio may be the main feature of our bar but we offer space for over 200 people on the inside of our bar as well. We have two custom made booths for groups, a small live music stage and custom made furniture throughout. We separate the two",
+        "Long": -97.750362,
+        "Lat": 30.26989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.750362,
+          30.26989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "G�ero's Taco Bar",
+        "Web_Notes": "There's always something fun happening at G�ero�s! Come on and enjoy some live music!!! Join us on our outside jardin stage. All outdoor shows are \"weather permitting.\"",
+        "Long": -97.750268,
+        "Lat": 30.24916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.750268,
+          30.24916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Ranch",
+        "Web_Notes": " ",
+        "Long": -97.750075,
+        "Lat": 30.270389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.750075,
+          30.270389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Opal Divine's Austin Grill - Freehouse",
+        "Web_Notes": "Opal Divine was my grand-mother's name. She was a woman who enjoyed good music, good friends, good drink and a good card game. In honor of her we bring to you Opal Divine's Austin Grill. Please enjoy this establishment with the same spirit for which she",
+        "Long": -97.749676,
+        "Lat": 30.270297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.749676,
+          30.270297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Continental Club",
+        "Web_Notes": "The granddaddy of all local music venues, the Continental Club has enjoyed a coast-to-coast reputation as the premiere club for live music since 1957.",
+        "Long": -97.749023,
+        "Lat": 30.250498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.749023,
+          30.250498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Key Bar",
+        "Web_Notes": "Key Bar is located in the heart of downtown Austin. Established in 2006, it has quickly become one of the city's hot spots. Enjoy one of the specialty drinks from the full service bar, chill with friends, watch the game, or do some \"6th street peopl",
+        "Long": -97.748727,
+        "Lat": 30.269426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.748727,
+          30.269426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Threadgill's World Headquarters",
+        "Web_Notes": " ",
+        "Long": -97.748632,
+        "Lat": 30.25809
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.748632,
+          30.25809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Side Bar",
+        "Web_Notes": "The Side Bar began in 2004 and is Austin based and owned.",
+        "Long": -97.748022,
+        "Lat": 30.270852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.748022,
+          30.270852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ego's",
+        "Web_Notes": "Ego's is a legendary South Austin lounge that hosts a diverse live music mix and poetry slams.",
+        "Long": -97.74769,
+        "Lat": 30.256235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74769,
+          30.256235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Little Woodrow's",
+        "Web_Notes": "Located at the heart of West 6th street between Congress and Lamar, a block downtown from Katz� Deli. This beautiful Historic building was originally a gas station in the 40�s.  As a matter of fact, the original two garage doors are still being used",
+        "Long": -97.747499,
+        "Lat": 30.269649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.747499,
+          30.269649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RAIN on 4th",
+        "Web_Notes": "Voted Austin's Best Gay Bar and Dance Club. Currently featuring live music on Sunday nights, booked by Jeremy Roye.",
+        "Long": -97.745679,
+        "Lat": 30.266534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745679,
+          30.266534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Drag Bar",
+        "Web_Notes": "Established in 1999, Austin's Pizza is locally owned by JD Torian, a native Texan and loyal Longhorn, with twelve Austin-area locations including Westlake, South Austin, campus area, Downtown, Central Austin, North Austin, Cedar Park, Pflugerville, and R",
+        "Long": -97.745603,
+        "Lat": 30.286693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745603,
+          30.286693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lavaca Street Bar",
+        "Web_Notes": "Lavaca Street Bar, a popular nightlife destination for the hip downtown crowd, has served as an Austin icon for numerous years.  They feature drink specials every night of the week as well as happy hour Monday-Friday from 4:00pm to 7:00pm.",
+        "Long": -97.745546,
+        "Lat": 30.266859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745546,
+          30.266859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belmont",
+        "Web_Notes": "After significant renovations, the Belmont re-opened under new ownership during SXSW 2012 as a 1000 person capacity state-of-the-art music venue and bar.  The new Belmont boasts a cutting edge sound and light system and will host music ranging from the h",
+        "Long": -97.745378,
+        "Lat": 30.268477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745378,
+          30.268477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lucky Lounge",
+        "Web_Notes": "One of Austin's most popular neighborhood Bars, the Lucky Lounge features 60's modern furnishings, a unique raised back bar, friendly and attentive staff, refreshing cocktails, daily music specials, and an eclectic crowd of people from a wide range of ba",
+        "Long": -97.745332,
+        "Lat": 30.267445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745332,
+          30.267445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oilcan Harry's",
+        "Web_Notes": "Oilcan Harry's is an upscale gay men's nightclub, featuring the hottest guys, and the best cocktails in town - for over 15 years!",
+        "Long": -97.745046,
+        "Lat": 30.266348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745046,
+          30.266348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cedar Street Courtyard",
+        "Web_Notes": "Located in the heart of the Warehouse District, the Cedar Street Courtyard has a vast selection of cigars and specialty martinis at the king of gin joints.  People also enjoy live music in the courtyard.",
+        "Long": -97.744824,
+        "Lat": 30.266862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.744824,
+          30.266862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ten Oak",
+        "Web_Notes": "Located in the heart of the Warehouse District in downtown Austin, Texas, tenOak Bourbon House and Lounge represents all that makes Austin unique and vivacious. Enter through our spacious covered patio, and pay a visit to the �Horse with No Name&rd",
+        "Long": -97.744474,
+        "Lat": 30.266582
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.744474,
+          30.266582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Speakeasy",
+        "Web_Notes": "Nightclub and live music venue\n",
+        "Long": -97.743753,
+        "Lat": 30.266422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743753,
+          30.266422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Six Lounge",
+        "Web_Notes": "Nightclub.",
+        "Long": -97.743739,
+        "Lat": 30.266182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743739,
+          30.266182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shiner's Saloon",
+        "Web_Notes": "Shiner's Saloon offers cheap drafts and $1 whiskey and has live music 4 nights a week. In addition to having all Shiner Beers available on tap, we also offer the Shiner hospitality. With most of the owners raised in Shiner, TX, we plan on bringing the ho",
+        "Long": -97.743611,
+        "Lat": 30.267111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743611,
+          30.267111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ethics Music Lounge",
+        "Web_Notes": " ",
+        "Long": -97.743547,
+        "Lat": 30.267049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743547,
+          30.267049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elephant Room",
+        "Web_Notes": "The Elephant Room has been providing \"Cool Jazz in the Basement Since 1991,\" and offers a variety of live music 7 nights a week beginning at 9:30pm, a full bar with over 20 different drafts and wine by the glass, and great happy hour specials.",
+        "Long": -97.7435,
+        "Lat": 30.265331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7435,
+          30.265331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Loft 718",
+        "Web_Notes": "Local techno-honcho Daetron Vargas has transformed the seldom-used loft space above Silhouette Sushi into a weekend-only lounge decked out with its own bar, cush mod furniture, paper-globe lighting, two Street Fighter equipped SNES systems, music-nerd fl",
+        "Long": -97.742702,
+        "Lat": 30.269242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742702,
+          30.269242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kingdom Austin Night Club",
+        "Web_Notes": "Kingdom is a boutique dance club located in the heart of downtown Austin, TX. It serves as a home for all dance genres, with an emphasis on sound, lighting, and architectural design to create an enhanced experience for all guests.",
+        "Long": -97.742439,
+        "Lat": 30.26675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742439,
+          30.26675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pedro's Place",
+        "Web_Notes": " ",
+        "Long": -97.74234,
+        "Lat": 30.279023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74234,
+          30.279023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Karma Austin",
+        "Web_Notes": "With its great location, just two blocks from the world famous 6th Street, Karma Lounge provides the ultimate nightlife experience with its energy and excitement.  The Lounge offers multiple rooms including the Shag Room with its relaxing tones and the C",
+        "Long": -97.742321,
+        "Lat": 30.266765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742321,
+          30.266765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dance Across Texas",
+        "Web_Notes": "BIGGEST DANCE FLOOR IN CENTRAL TEXAS",
+        "Long": -97.74232,
+        "Lat": 30.215336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74232,
+          30.215336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spider House Ballroom",
+        "Web_Notes": "Spider House is an eclectic coffee bar and vegetarian cafe, featuring beer, wine, sangria, smoothies, coffee drinks, and desserts. We have music Sunday through Saturday nights from 8-10:30 in a magical garden setting, which seats about 100 people. Come h",
+        "Long": -97.742035,
+        "Lat": 30.295249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.742035,
+          30.295249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Varsity Bar at Austin's Pizza",
+        "Web_Notes": "Varsity Bar is conveniently located upstairs from Austin's Pizza's on the Drag. Drinks and live music make Varsity Bar UT's newest and best after-class hangout.",
+        "Long": -97.741849,
+        "Lat": 30.287019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741849,
+          30.287019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hole in the Wall",
+        "Web_Notes": "Austin bar with a relaxed atmosphere plus free shuffleboard and nightly music.",
+        "Long": -97.741653,
+        "Lat": 30.290002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741653,
+          30.290002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Local Pub and Patio",
+        "Web_Notes": "The Local Pub and Patio caters to college students, faculty and staff of UT, as well as the local Austinite searching for a comfortable neighborhood hangout. We offer a warm, inviting atmosphere, and a patio outside that offers a great place to relax on",
+        "Long": -97.741572,
+        "Lat": 30.291539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741572,
+          30.291539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buffalo Billiards",
+        "Web_Notes": "Named by Billiard Digest as the country' best new pool hall, Buffalo Billiards is a 22,000 square-foot venue with great food and drinks, music, and fun.  Their dinner menu consists of traditional bar favorites including chicken wings, nachos, quesadillas",
+        "Long": -97.741516,
+        "Lat": 30.26741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741516,
+          30.26741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Soho Lounge",
+        "Web_Notes": "Soho Lounge combines high energy and class to provide the ultimate nightlife entertainment on 6th Street.  They host a variety of events including college football parties and holiday-theme parties and also offer drink specials every night of the week.",
+        "Long": -97.74135,
+        "Lat": 30.267368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74135,
+          30.267368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chuggin' Monkey",
+        "Web_Notes": "The Chuggin' Monkey was created by three guys who wanted a place to hang out, shoot pool, and lounge on a patio in the summer.  They went around to numerous entertainment districts all over the country to come up with the ideal nightspot where all kinds",
+        "Long": -97.74133,
+        "Lat": 30.267363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74133,
+          30.267363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "B.D. Riley's Irish Pub",
+        "Web_Notes": "With its opening in October of 2000, B.D. Riley's Irish Pub is a fairly new establishment, but its popularity is nothing to be underestimated.  Located in the heart of Austin's historic 6th Street Entertainment district, B.D. Riley's is a fine traditiona",
+        "Long": -97.741288,
+        "Lat": 30.267925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741288,
+          30.267925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Friends Bar",
+        "Web_Notes": "Friends is located in the heart of 6th Street district, within walking distance of most hotels. The Friends Bar provides live music and features some of Austin's best DJ's.",
+        "Long": -97.741246,
+        "Lat": 30.267914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741246,
+          30.267914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parish",
+        "Web_Notes": "The Parish room is one of the most adored live music venues in the Country, by fans & artists alike, housing arguably the best indoor sound in all of Texas. The Parish has physical character, hardwood floors, and a great musical history. It has attracted",
+        "Long": -97.741184,
+        "Lat": 30.267898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741184,
+          30.267898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Firehouse Lounge",
+        "Web_Notes": "speakeasy cocktail lounge",
+        "Long": -97.741035,
+        "Lat": 30.268173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741035,
+          30.268173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Antone's Nightclub",
+        "Web_Notes": "Antone's is Austin's legendary blues hall that has been providing great live music to Austin since 1975.  All ages are welcome to the variety of shows that they have to offer. Antone's has long been known as   Austin's Home of the Blues. Antone's has sho",
+        "Long": -97.740763,
+        "Lat": 30.266156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740763,
+          30.266156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Latitude 29",
+        "Web_Notes": "The Latitude 30 is one of Austin's most popular neighborhood bars, located in the heart of the Warehouse District. With TV's, DJ's, live bands, best service and most enjoyable atmosphere, there's something for everyone. If you're looking for a night out",
+        "Long": -97.740736,
+        "Lat": 30.267081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740736,
+          30.267081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Darwin's Pub",
+        "Web_Notes": "Darwin's Pub is a small bar located in downtown Austin that occasionally features live music.",
+        "Long": -97.740676,
+        "Lat": 30.267252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740676,
+          30.267252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bat Bar",
+        "Web_Notes": "The Bat Bar is a Sixth Street bar that also features live music. For venue and band bookings, private parties, and VIP reservations please contact Jey Ditta at (512) 695-8487 or email him at jeyditta@yahoo.com.",
+        "Long": -97.7406,
+        "Lat": 30.267741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7406,
+          30.267741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blind Pig Pub",
+        "Web_Notes": "Blind Pig Pub is a beer garden bringing state employees, tech heads and students live music and a large beer list.",
+        "Long": -97.740294,
+        "Lat": 30.267077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740294,
+          30.267077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ginny's Little Longhorn Saloon",
+        "Web_Notes": " ",
+        "Long": -97.740228,
+        "Lat": 30.329299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740228,
+          30.329299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Nook Amphitheater",
+        "Web_Notes": "Nook is a nightclub/ dancehall located in Austin, TX. The Nook features musical acts from a variety of different genres.",
+        "Long": -97.740149,
+        "Lat": 30.26702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740149,
+          30.26702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shakespeare's Pub",
+        "Web_Notes": "The Shakespeare Pub & Grill was established in 1990 with the atmosphere of a local British pub that was easy to find with a good selction of beer, a place to meet  interesting people, to have a bite to eat, and not to break into a sweat when the check ar",
+        "Long": -97.740097,
+        "Lat": 30.267599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740097,
+          30.267599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Library Bar",
+        "Web_Notes": "The Library has been described as the ultimate hangout.  The best drink specials and the hoppin atmosphere combine to create the epitome of a party bar.  Surrounded by the hottest people, you'll throw back your favorite beverage.  The best music will be",
+        "Long": -97.739333,
+        "Lat": 30.266781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739333,
+          30.266781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burnside's Tavern",
+        "Web_Notes": "Treasure Island is Austin's legendary nightlife destination with great music, location, and atmosphere.  Order their famous Tropical Fish bowl and dance the night away in paradise.",
+        "Long": -97.739271,
+        "Lat": 30.266764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739271,
+          30.266764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pete's Dueling Piano Bar",
+        "Web_Notes": "Pete's Dueling Piano Bar offers great entertainment and atmosphere robust with the singing, laughing, clapping, and dancing of everyone having a delightful time.  Four talented pianists play two baby grand pianos, in two-person rotations on the hour and",
+        "Long": -97.739187,
+        "Lat": 30.266742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739187,
+          30.266742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jackalope",
+        "Web_Notes": "The Jackalope is Austin's most notorious old school dive bar\".  Velvet paintings, a huge padded bar, great drinks, a friendly staff, amazing food, and a widely diverse crowd are our trademarks.",
+        "Long": -97.739148,
+        "Lat": 30.267305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739148,
+          30.267305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vulcan Gas Company",
+        "Web_Notes": "Vulcan Gas Company is a beautiful state-of-the art music venue designed to host today's most cutting edge music experiences as well as to offer the best setting for a variety private and corporate event functions.\n",
+        "Long": -97.739023,
+        "Lat": 30.267107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739023,
+          30.267107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Peckerheads on Sixth",
+        "Web_Notes": "Come party with us on Historic 6th Street in Austin, Texas. Cheap drinks, great music.",
+        "Long": -97.739012,
+        "Lat": 30.267298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739012,
+          30.267298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nuno's Attic",
+        "Web_Notes": "At Nuno's on Sixth Downstairs is a great place to have a drink and listen to the greatest blues musicians in Austin (seven days a week!)... \n\nIn the Nuno's Attic, there is also musical performances as well as theatrical performances.",
+        "Long": -97.738981,
+        "Lat": 30.267261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738981,
+          30.267261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whip Inn Parlour Caf�",
+        "Web_Notes": "Whip In Parlour Cafe has a variety of beer, food and music. The setting is quite unique, intimate & awesome. Whip In Parlour Cafe is open everyday 8am-midnite.",
+        "Long": -97.738968,
+        "Lat": 30.238229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738968,
+          30.238229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cuban Salsa Dance Lessons with Leticia Rodriguez/ Iron Cactus",
+        "Web_Notes": " ",
+        "Long": -97.738586,
+        "Lat": 30.391549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738586,
+          30.391549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NXNW Restaurant and Brewery",
+        "Web_Notes": "Community Space\nLive Musik",
+        "Long": -97.738538,
+        "Lat": 30.391159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738538,
+          30.391159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Banger's Sausage House and Beer Garden",
+        "Web_Notes": "Banger's Sausage House & Beer Garden is a new restaurant, bar and music venue coming to the Rainey Street District of downtown Austin Texas in the summer of 2012",
+        "Long": -97.738364,
+        "Lat": 30.25886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738364,
+          30.25886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dirty Dog",
+        "Web_Notes": "Austin's only live music sports bar with an extreme sports theme.  Featuring three 8 foot screens and multiple TV's placed throughout the bar, all showing extreme sports and other big games.",
+        "Long": -97.738276,
+        "Lat": 30.266501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738276,
+          30.266501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Flamingo Cantina",
+        "Web_Notes": "Flamingo Cantina is a embassy of Caribbean sounds that occasionally plays rock and roll.",
+        "Long": -97.738175,
+        "Lat": 30.266472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738175,
+          30.266472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Casino El Camino",
+        "Web_Notes": "Voted best bar food, juke box, atmosphere in Austin.",
+        "Long": -97.738154,
+        "Lat": 30.266466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.738154,
+          30.266466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Headhunter's Bar",
+        "Web_Notes": "Headhunter's features a wide variety of music to appeal to every nature of listener.  Headhunter's features a full menu of food and drinks available in the club or for private parties and catering.  Headhunter's provides two stages (inside & outside smok",
+        "Long": -97.737048,
+        "Lat": 30.267688
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.737048,
+          30.267688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Swan Dive",
+        "Web_Notes": "All the class and taste of East Side Show Room with floor space adequate enough to encourage proper dance shenanigans.\nWe aspire to be a music emporium and to provide Austin with top quality eccentric entertainment in the most atmospheric environment we",
+        "Long": -97.736827,
+        "Lat": 30.266538
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736827,
+          30.266538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Plush",
+        "Web_Notes": "Featuring different DJs every night of the week, Plush serves up beer and cocktails while house music blares. The hard-edged and cool-toned interior contradicts the club's soft and warm name. A makeshift dance floor in front of the DJ station is the foca",
+        "Long": -97.73682,
+        "Lat": 30.266556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73682,
+          30.266556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barracuda",
+        "Web_Notes": "Red 7 is an all-ages Rock venue that is complete with two stages (one indoor and one outdoor) and full bar.",
+        "Long": -97.736787,
+        "Lat": 30.267107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736787,
+          30.267107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elysium Nightclub",
+        "Web_Notes": "Elysium Nightclub in downtown Austin has been voted best dance club three years in a row in theAustin Chronicle Reader's Poll.  It is recognized as the city's gothic and industrial haven featuring 80's music, old goth favorites, live music, and s",
+        "Long": -97.736492,
+        "Lat": 30.267385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736492,
+          30.267385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beerland",
+        "Web_Notes": "Rock & roll club seeks bands, fans, and hangers-on for all-out orgy of loud music and cheap beer.  Also have liquor, pool, and arcade games.  Must love music. No cigars.  21 and up, please.  We're waiting for you, seven nights a week.  And now, Karaoke o",
+        "Long": -97.736473,
+        "Lat": 30.26744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736473,
+          30.26744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cheer Up Charlie's",
+        "Web_Notes": " ",
+        "Long": -97.736443,
+        "Lat": 30.269422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736443,
+          30.269422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mohawk",
+        "Web_Notes": "Handmade in downtown Austin, Texas, The Mohawk Austin was reinvented in 2006 as a place for stout drinks, live music, and original events. The Mohawk Austin draws its inspiration from the Native American culture of the Northeast.  The Mohawk Austin was b",
+        "Long": -97.736399,
+        "Lat": 30.269529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736399,
+          30.269529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stubb's Bar-B-Que",
+        "Web_Notes": "In the 1970's, Stubb's restaurant became the heart of an explosive music scene. Stubbs was ground zero for musicians like Joe Ely and Stevie Ray Vaughn. Other famous musicians who would \"play for their supper\" included Muddy Waters, John Lee Ho",
+        "Long": -97.736175,
+        "Lat": 30.268275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736175,
+          30.268275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Club 606",
+        "Web_Notes": "Club 606 is Austin newest Live music and dance venue. Awesome space, Awesome sound. Check out our 2000 sqft, music, party, dance and performance venue. Full black box elevated stage, full bar, dance floor, club & stage lighting.\n",
+        "Long": -97.736048,
+        "Lat": 30.267492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736048,
+          30.267492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Empire Control Room",
+        "Web_Notes": "Empire Control Room & Garage is a concert venue and night club located in Austin, TX. Empire is a modern music space that prides itself in providing the best concert experience for the audience. Empire Control Room & Garage is the ideal location for enjo",
+        "Long": -97.736048,
+        "Lat": 30.267492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.736048,
+          30.267492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NeWorld Deli",
+        "Web_Notes": "New World Deli came into existence because owners Greg and Sarah Bontempo wanted to create a restaurant where their young children could come to work with them and they would not have to rely on day care.\nWhen you enter NeWorlDeli you are greeted by the",
+        "Long": -97.735514,
+        "Lat": 30.306265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.735514,
+          30.306265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shangri-La",
+        "Web_Notes": "Shangri-La is equal parts dive bar, cocktail lounge and beer garden; the perfect destination for a night out with friends, a special event, an awkward first date or even drinking alone while you contemplate the complexities of the human condition. Live m",
+        "Long": -97.731642,
+        "Lat": 30.264925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.731642,
+          30.264925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austin Songwriters Group | The Mockingbird Cafe",
+        "Web_Notes": "First formed in 1986, ASG is a non-profit organization completely run on a volunteer basis by songwriters and solely dedicated to the interests of songwriters throughout Texas and the world. ASG offers weekly artist showcases at our office, produces two",
+        "Long": -97.731549,
+        "Lat": 30.213385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.731549,
+          30.213385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Scoot Inn and Bier Garten",
+        "Web_Notes": "The Scoot is the oldest continuously running beer joint in central Texas. In the olden days weary pioneers would roll their wagons into the Scoot \"drive in\" for a jug of beer, rations and perhaps some ice when available. Now we have plenty of ice, a grea",
+        "Long": -97.729701,
+        "Lat": 30.262347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.729701,
+          30.262347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rio Rita Cafe y Cantina",
+        "Web_Notes": "Mild mannered coffee shop by day, swanky lounge by night. We are 4 blocks east of I-35, between Navasota and Attayac on Sixth Street. It was once an orquestahaven back in the day (1950s) and sometime in the early 70s, someone erected its sign, wh",
+        "Long": -97.729312,
+        "Lat": 30.264267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.729312,
+          30.264267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kenny Dorham's Backyard",
+        "Web_Notes": "Named for the legendary jazz trumpeter and East Austinite, Kenny Dorham�s Backyard is DiverseArts� outdoor music venue, located in the heart of the historic East End cultural district, just down the street from Kenny Dorham�s last home in Austin.",
+        "Long": -97.728617,
+        "Lat": 30.269272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.728617,
+          30.269272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Emo's Austin",
+        "Web_Notes": "It's been almost twenty years since Emo's first opened its doors, and in that span of time countless bands have not only graced the stage (including the legendary Johnny Cash, just look for his barstool hanging from the ceiling) but all helped cement Emo",
+        "Long": -97.727967,
+        "Lat": 30.240795
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.727967,
+          30.240795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Volstead",
+        "Web_Notes": "The Volsteadcan host parties from 10-275 people. Whether it be a birthday, Alumni gathering, corporate cocktail party, rehearsal dinner or engagement soiree, The Volstead is here to accommodate your needs.",
+        "Long": -97.7274,
+        "Lat": 30.263636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7274,
+          30.263636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hotel Vegas",
+        "Web_Notes": "Hotel Vegas Bar is located in the heart of the east sixth street arts + entertainment district on the east end of the Salinas Building, next to neighboring sister bar The Volstead Lounge. Hotel Vegas Bar will offer Live Music and DJ's Wednesday to Saturd",
+        "Long": -97.7274,
+        "Lat": 30.263636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7274,
+          30.263636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lazy Lizard",
+        "Web_Notes": "The Lazy Lizard is an E. 6th street bar w/ indoor and outdoor stages.\n",
+        "Long": -97.727361,
+        "Lat": 30.263623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.727361,
+          30.263623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Patsy's Cowgirl Cafe",
+        "Web_Notes": "At Patsy's Cowgirl Cafe, people come in for appetizers, margaritas, beer, and live music.  Live music is every Wednesday through Saturdays, with no cover.  Sedwick says her cafe is \"Texas roadhouse meets Austin eclectic.\"  The menu is a good te",
+        "Long": -97.727035,
+        "Lat": 30.213716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.727035,
+          30.213716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The White Horse",
+        "Web_Notes": "The White Horse features live music 7 days a week with a full-service bar and whiskey on tap, dance floor, two pool tables, Bomb Tacos trailer and covered/open air smoking patio. We also feature an antique photo booth and a variety of arcade games. Our s",
+        "Long": -97.72701,
+        "Lat": 30.262565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72701,
+          30.262565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buzz Mill Coffee",
+        "Web_Notes": "24 Hours\nLocally Roasted Premium Quality Coffee",
+        "Long": -97.726864,
+        "Lat": 30.241702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.726864,
+          30.241702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Water Tank Bar",
+        "Web_Notes": "The Water Tank is a nightclub / restaurant located in north Austin. Enjoy some of the best bands in Austin every Wednesday, and Thursday nights as we bring on some of the most talented musicians Central Texas has to offer! If you enjoy friendly people an",
+        "Long": -97.725871,
+        "Lat": 30.375146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.725871,
+          30.375146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sherlock's Baker Street Pub - Austin",
+        "Web_Notes": "Sherlock's Baker Street Pub, Baker Street Pub and Grill and Watson's Ale House have sixteen locations across Texas and growing. We offer live music seven nights a week from 4pm-2am. Some of our largest drawing acts are Rat Ranch, Velcro Pygmies, The Max",
+        "Long": -97.724509,
+        "Lat": 30.371446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.724509,
+          30.371446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stay Gold",
+        "Web_Notes": "Stay Gold features local draft beers, a variety of Texas and international wines and seasonal craft cocktails in addition to a full patio and new food trailer Toaster, operated by Hannah Love, former pastry Sous Chef at Perla�s Seafood & Oyster Bar, Je",
+        "Long": -97.723708,
+        "Lat": 30.257077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.723708,
+          30.257077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Studio 40",
+        "Web_Notes": "Studio 41 Austin's newest events center has approximately 8000 sq./ft. to offer with a 120 sq./ft. stage and an exclusive green room. A 2500 sq./ft. back room (available for bar set up) opens to a 4500 sq./ft. room that has a dedicated 3500 sq./t dance f",
+        "Long": -97.723303,
+        "Lat": 30.237046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.723303,
+          30.237046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dozen Street",
+        "Web_Notes": "Dozen Street is a new, soulful lounge for all types and stripes in the up and coming middle of the East Side. The bar features a small stage, free pool tables and a large backyard patio. For musicians interesting in performing, contact the bar's owner at",
+        "Long": -97.72041,
+        "Lat": 30.273862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72041,
+          30.273862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Opal Divine's Austin Grill - Marina",
+        "Web_Notes": "Texas' best Scotch menu: Over 60 varieties of single malt scotches and 36 Craft-brewed & imported draught beers. American Grill served late!",
+        "Long": -97.713998,
+        "Lat": 30.424886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.713998,
+          30.424886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "4th Tap Brewing",
+        "Web_Notes": "Poetry Slams\nWrestling\nRotating Art Exhibition",
+        "Long": -97.71193,
+        "Lat": 30.385139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.71193,
+          30.385139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carousel Lounge",
+        "Web_Notes": "In spite of (or maybe because of) its out-of-the-way location and bizarre circus theme -- complete with elephant and lion-tamer murals and an actual carousel behind the bar -- the Carousel Lounge is a highly popular local watering hole. You never know wh",
+        "Long": -97.708195,
+        "Lat": 30.309845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.708195,
+          30.309845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Skylark Lounge",
+        "Web_Notes": "The Skylark Lounge is housed in a building that is a throwback to times gone by. While centrally located, it�s tucked away, hidden and off of the beaten path (if we didn't tell you where it was at you'd never find it).We are committing ourselves to bri",
+        "Long": -97.705333,
+        "Lat": 30.284861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.705333,
+          30.284861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nomad Bar",
+        "Web_Notes": "performance venue",
+        "Long": -97.704809,
+        "Lat": 30.312856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.704809,
+          30.312856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hard Luck Lounge",
+        "Web_Notes": " ",
+        "Long": -97.702702,
+        "Lat": 30.256813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.702702,
+          30.256813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parmer Lane Tavern",
+        "Web_Notes": "Live Music Every Wed and Friday\nPool tables\nGame screenings",
+        "Long": -97.697897,
+        "Lat": 30.416148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.697897,
+          30.416148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austin Moose Lodge No. 1734",
+        "Web_Notes": "The Loyal Order of Moose is a fraternal and service organization founded in 1888, with nearly 800,000 men in roughly 1,800 Lodges, in all 50 states and four Canadian provinces, plus Great Britain and Bermuda. Along with other units of Moose International",
+        "Long": -97.696707,
+        "Lat": 30.28651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.696707,
+          30.28651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shooters Billiards & Sports Bar",
+        "Web_Notes": "Shooters is a pool hall / sports bar with entertainment including live music and karaoke. Live music on Friday nights, no cover. Open daily from 11:00am to 2:00am. Happy hour from 11:00am to 7:00pm .",
+        "Long": -97.692547,
+        "Lat": 30.360318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.692547,
+          30.360318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coliseum",
+        "Web_Notes": "The Coliseum is Austin&#39;s newest concert venue featuring R&B, Country, Rock, Pop and Latin performers.\n",
+        "Long": -97.688581,
+        "Lat": 30.16181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.688581,
+          30.16181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Raggedy Anne's",
+        "Web_Notes": "Karaoke\nLive Music venue",
+        "Long": -97.683928,
+        "Lat": 30.436187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.683928,
+          30.436187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sahara Lounge",
+        "Web_Notes": "Sahara Lounge is an inviting Eastside Austin live music venue with a relaxed, eclectic atmosphere. Live shows include Indie, African, Blues, Rock, Country, Swing, Brazilian, Funk and everything in between. Formerly the historic TC's Lounge, the building",
+        "Long": -97.680987,
+        "Lat": 30.279535
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.680987,
+          30.279535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Live Room",
+        "Web_Notes": "The Live Room is one of the six nightclubs in Graham Central Station, which provides a venue for local Austin bands to be seen and heard.",
+        "Long": -97.663688,
+        "Lat": 30.456019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.663688,
+          30.456019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dizzy Rooster",
+        "Web_Notes": "Maybe it's to dance along with countless others on top of the bar or on our packed dance floor.  Maybe it's because you would like to be serenaded on your bachelorette/bachelor party by our notorious MC a/k/a DJ Veg.  Maybe it's because you just HAVE to",
+        "Long": -97.740176,
+        "Lat": 30.267624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740176,
+          30.267624
+        ]
+      }
+    }
+  ]
+}
