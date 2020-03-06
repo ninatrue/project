@@ -1,506 +1,402 @@
 {
-  "type": "FeatureCollection",
-  "name": "markets",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
-  "features": [
-    {
-      "type": "Feature",
+    "type": "FeatureCollection",
+    "name": "markets",
+    "crs": {
+      "type": "name",
       "properties": {
-        "Website": "http://www.funkytonkfarmersmarket.com",
-        "x": -97.7018,
-        "y": 30.4258,
-        "address": "6701 Burnet Road Market",
-        "Name": "Burnet Road Farmers' Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.7018,
-            30.4258
-          ]
-        ]
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.gtfma.com",
-        "x": -97.68575,
-        "y": 30.561622,
-        "address": "1525 W. University Ave",
-        "Name": "Georgetown Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.68575,
-            30.561622
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.gtfma.com",
-        "x": -97.6769,
-        "y": 30.6376,
-        "address": "Courthouse Square",
-        "Name": "Georgetown Farmers Market I"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.6769,
-            30.6376
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.gtfma.com",
-        "x": -97.6782,
-        "y": 30.6399,
-        "address": "Sun City",
-        "Name": "Georgetown Farmers Market II"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.6782,
-            30.6399
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://visithutto.com/231/CO-OP-Market-Nights",
-        "x": -97.550922,
-        "y": 30.543434,
-        "address": "420 US Hwy 79",
-        "Name": "Hutto Co-Op Market Nights"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.550922,
-            30.543434
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.huttotx.gov",
-        "x": -97.548336,
-        "y": 30.545152,
-        "address": "208 East Street",
-        "Name": "Hutto Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.548336,
-            30.545152
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.pflugervilletx.gov/pfarmersmarket",
-        "x": -97.606001,
-        "y": 30.442585,
-        "address": "901 Old Austin Hutto Road",
-        "Name": "Pflugerville Pfarmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.606001,
-            30.442585
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": null,
-        "x": -97.687978,
-        "y": 30.557445,
-        "address": "201 University Oaks Blvd.",
-        "Name": "Round Rock farmers Market, Farmer George Farmers Markets"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.687978,
-            30.557445
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.sassypeamarket.com/",
-        "x": -97.8185,
-        "y": 30.565,
-        "address": "10820 East Crystal Falls Parkway",
-        "Name": "Sassy Pea Market/Good Earth Petting Farm (at The Good Earth Day School)"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.8185,
-            30.565
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.gtfma.com",
-        "x": -97.68575,
-        "y": 30.561622,
-        "address": "2 Texas Drive Georgetown",
-        "Name": "Sun City Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.68575,
-            30.561622
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": null,
-        "x": -97.4098,
-        "y": 30.5715,
-        "address": "5th Street and Main Street",
-        "Name": "Taylor Area Farmers Market Association"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.4098,
-            30.5715
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.TexasFarmersMarket.org",
-        "x": -97.806404,
-        "y": 30.469332,
-        "address": "Lakeline Mall parking lot, behind Sears & Dillard's",
-        "Name": "Texas Farmers' Market at Lakeline"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.806404,
-            30.469332
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.texasfarmersmarket.org",
-        "x": -97.806344,
-        "y": 30.469242,
-        "address": "11200 Lakeline Mall Drive",
-        "Name": "Texas Farmers' Market at Lakeline"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.806344,
-            30.469242
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.wolfranchfarmersmarket.com",
-        "x": -97.6936314,
-        "y": 30.6302756,
-        "address": "1015 W University Avenue",
-        "Name": "Wolf Ranch Farmers' Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.6936314,
-            30.6302756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.yourfarmer2u.com",
-        "x": -97.6780832,
-        "y": 30.6391672,
-        "address": "5th & Austin Ave",
-        "Name": "YourFarmer2U Georgetown"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.6780832,
-            30.6391672
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.bartoncreekfarmersmarket.org/",
-        "x": -97.7557,
-        "y": 30.3222,
-        "address": "2901 Capital of TX Hwy. S.",
-        "Name": "Barton Creek Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.7557,
-            30.3222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.bartoncreekfarmersmarket.org/",
-        "x": -97.7157,
-        "y": 30.3244,
-        "address": "Highland Mall - 6001 Airport Blvd",
-        "Name": "Barton Creek Farmers Market (Highland Mall)"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.7157,
-            30.3244
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": null,
-        "x": -97.8554,
-        "y": 30.1364,
-        "address": "2310 Bliss Spillar, Marbridge Ranch Nursery",
-        "Name": "Central Texas Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.8554,
-            30.1364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.greengatefarms.net",
-        "x": -97.6353,
-        "y": 30.285,
-        "address": "8310 Canoga Avenue",
-        "Name": "Green Gate Farms"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.6353,
-            30.285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://hopefarmersmarket.org/",
-        "x": -97.72728,
-        "y": 30.262002,
-        "address": "412 Comal Street",
-        "Name": "HOPE Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.72728,
-            30.262002
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.lonestarfarmersmarket.com/",
-        "x": -97.942188,
-        "y": 30.30567,
-        "address": "12611 Suite 100 Shops Parkway",
-        "Name": "Lone Star Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.942188,
-            30.30567
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": null,
-        "x": -98.084871,
-        "y": 30.387133,
-        "address": "23526 TX-71",
-        "Name": "Pedernales Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -98.084871,
-            30.387133
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.sustainablefoodcenter.org",
-        "x": -97.808943,
-        "y": 30.230386,
-        "address": "3200 Jones Rd.",
-        "Name": "SFC Farmers' Market at Sunset Valley"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.808943,
-            30.230386
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.sustainablefoodcenter.org",
-        "x": -97.7472723,
-        "y": 30.2679131,
-        "address": "422 Guadalupe Street",
-        "Name": "SFC Farmers' Market Downtown"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.7472723,
-            30.2679131
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.southaustinfarmersmarket.com",
-        "x": -97.7579,
-        "y": 30.2334,
-        "address": "2910 S. Congress",
-        "Name": "South Austin Farmers Market"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.7579,
-            30.2334
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Website": "http://www.texasfarmersmarket.org",
-        "x": -97.7072901,
-        "y": 30.2965856,
-        "address": "4209 Airport Blvd.",
-        "Name": "Texas Farmers' Market at Mueller"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            -97.7072901,
-            30.2965856
-          ]
-        ]
-      }
-    }
-  ]
-}
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.funkytonkfarmersmarket.com",
+          "x": -97.7018,
+          "y": 30.4258,
+          "address": "6701 Burnet Road Market",
+          "Name": "Burnet Road Farmers' Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.7018,
+              30.4258
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.gtfma.com",
+          "x": -97.68575,
+          "y": 30.561622,
+          "address": "1525 W. University Ave",
+          "Name": "Georgetown Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.68575,
+              30.561622
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.gtfma.com",
+          "x": -97.6769,
+          "y": 30.6376,
+          "address": "Courthouse Square",
+          "Name": "Georgetown Farmers Market I"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.6769,
+              30.6376
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.gtfma.com",
+          "x": -97.6782,
+          "y": 30.6399,
+          "address": "Sun City",
+          "Name": "Georgetown Farmers Market II"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.6782,
+              30.6399
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://visithutto.com/231/CO-OP-Market-Nights",
+          "x": -97.550922,
+          "y": 30.543434,
+          "address": "420 US Hwy 79",
+          "Name": "Hutto Co-Op Market Nights"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.550922,
+              30.543434
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.huttotx.gov",
+          "x": -97.548336,
+          "y": 30.545152,
+          "address": "208 East Street",
+          "Name": "Hutto Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.548336,
+              30.545152
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.pflugervilletx.gov/pfarmersmarket",
+          "x": -97.606001,
+          "y": 30.442585,
+          "address": "901 Old Austin Hutto Road",
+          "Name": "Pflugerville Pfarmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.606001,
+              30.442585
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": null,
+          "x": -97.687978,
+          "y": 30.557445,
+          "address": "201 University Oaks Blvd.",
+          "Name": "Round Rock farmers Market, Farmer George Farmers Markets"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.687978,
+              30.557445
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.sassypeamarket.com/",
+          "x": -97.8185,
+          "y": 30.565,
+          "address": "10820 East Crystal Falls Parkway",
+          "Name": "Sassy Pea Market/Good Earth Petting Farm (at The Good Earth Day School)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.8185,
+              30.565
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.gtfma.com",
+          "x": -97.68575,
+          "y": 30.561622,
+          "address": "2 Texas Drive Georgetown",
+          "Name": "Sun City Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.68575,
+              30.561622
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": null,
+          "x": -97.4098,
+          "y": 30.5715,
+          "address": "5th Street and Main Street",
+          "Name": "Taylor Area Farmers Market Association"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.4098,
+              30.5715
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.TexasFarmersMarket.org",
+          "x": -97.806404,
+          "y": 30.469332,
+          "address": "Lakeline Mall parking lot, behind Sears & Dillard's",
+          "Name": "Texas Farmers' Market at Lakeline"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.806404,
+              30.469332
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.texasfarmersmarket.org",
+          "x": -97.806344,
+          "y": 30.469242,
+          "address": "11200 Lakeline Mall Drive",
+          "Name": "Texas Farmers' Market at Lakeline"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.806344,
+              30.469242
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.wolfranchfarmersmarket.com",
+          "x": -97.6936314,
+          "y": 30.6302756,
+          "address": "1015 W University Avenue",
+          "Name": "Wolf Ranch Farmers' Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.6936314,
+              30.6302756
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.yourfarmer2u.com",
+          "x": -97.6780832,
+          "y": 30.6391672,
+          "address": "5th & Austin Ave",
+          "Name": "YourFarmer2U Georgetown"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.6780832,
+              30.6391672
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.bartoncreekfarmersmarket.org/",
+          "x": -97.7557,
+          "y": 30.3222,
+          "address": "2901 Capital of TX Hwy. S.",
+          "Name": "Barton Creek Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.7557,
+              30.3222
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.bartoncreekfarmersmarket.org/",
+          "x": -97.7157,
+          "y": 30.3244,
+          "address": "Highland Mall - 6001 Airport Blvd",
+          "Name": "Barton Creek Farmers Market (Highland Mall)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.7157,
+              30.3244
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": null,
+          "x": -97.8554,
+          "y": 30.1364,
+          "address": "2310 Bliss Spillar, Marbridge Ranch Nursery",
+          "Name": "Central Texas Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.8554,
+              30.1364
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.greengatefarms.net",
+          "x": -97.6353,
+          "y": 30.285,
+          "address": "8310 Canoga Avenue",
+          "Name": "Green Gate Farms"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.6353,
+              30.285
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://hopefarmersmarket.org/",
+          "x": -97.72728,
+          "y": 30.262002,
+          "address": "412 Comal Street",
+          "Name": "HOPE Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.72728,
+              30.262002
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.lonestarfarmersmarket.com/",
+          "x": -97.942188,
+          "y": 30.30567,
+          "address": "12611 Suite 100 Shops Parkway",
+          "Name": "Lone Star Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.942188,
+              30.30567
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": null,
+          "x": -98.084871,
+          "y": 30.387133,
+          "address": "23526 TX-71",
+          "Name": "Pedernales Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -98.084871,
+              30.387133
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.sustainablefoodcenter.org",
+          "x": -97.808943,
+          "y": 30.230386,
+          "address": "3200 Jones Rd.",
+          "Name": "SFC Farmers' Market at Sunset Valley"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.808943,
+              30.230386
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.sustainablefoodcenter.org",
+          "x": -97.7472723,
+          "y": 30.2679131,
+          "address": "422 Guadalupe Street",
+          "Name": "SFC Farmers' Market Downtown"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.7472723,
+              30.2679131
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.southaustinfarmersmarket.com",
+          "x": -97.7579,
+          "y": 30.2334,
+          "address": "2910 S. Congress",
+          "Name": "South Austin Farmers Market"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.7579,
+              30.2334
+       ]}},
+      {
+        "type": "Feature",
+        "properties": {
+          "Website": "http://www.texasfarmersmarket.org",
+          "x": -97.7072901,
+          "y": 30.2965856,
+          "address": "4209 Airport Blvd.",
+          "Name": "Texas Farmers' Market at Mueller"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+              -97.7072901,
+              30.2965856
+       ]}}
+    ]
+  }
